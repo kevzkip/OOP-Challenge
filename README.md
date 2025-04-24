@@ -37,27 +37,25 @@ Create a class called `Pet` with the following:
 
 ---
 
-## ✅ Sample Output
+## ✅ Output
 
 ```bash
-Creating pet: Max
-Max is eating...
-Max is playing...
-Max is sleeping...
-Max's current status:
-Hunger: 2
-Energy: 8
-Happiness: 9
-Tricks: ['roll over', 'play dead']
+📋 --- Lucky's Status ---
+🍗 Hunger: 5/10
+⚡ Energy: 5/10
+😊 Happiness: 5/10
 
+Lucky eats happily! 🥣😋
+Lucky is playing and having fun! 🎾😄
+Lucky is now resting... 😴
+Lucky learned a new trick: Roll over! 🎉
+Lucky learned a new trick: Sit! 🎉
+Lucky already knows how to Roll over! 🧠
+Lucky loves the cuddles! 🐾❤️
+Lucky knows the following tricks: Roll over, Sit 🐕✨
 
-### 💡 Tips
-Use max() and min() to keep values between 0 and 10.
-
-Think about edge cases like trying to play when energy is 0.
-
-🏁 Submission
-
-Submission format: clone/fork this repo
-
-Bonus points for creativity (custom actions, emojis, pet types, etc.)
+📋 --- Lucky's Status ---
+🍗 Hunger: 3/10
+⚡ Energy: 8/10
+😊 Happiness: 10/10
+```
